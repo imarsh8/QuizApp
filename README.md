@@ -1,7 +1,7 @@
 # QuizApp
 Java Quiz Application using MySQL and Swing
 
-# QuizApp 🎯
+
 
 A Java-based Quiz Application built using Swing for GUI and MySQL for database management. This project provides a simple and interactive way to attempt quizzes and view scores.
 
